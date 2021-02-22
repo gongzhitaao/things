@@ -1,0 +1,22 @@
+$sans: Helvetica, sans-serif;
+$serif: Georgia, serif;
+$monospace: Lucida Console, monospace;
+$code-size: 80%;
+$smaller: 90%;
+$max-width: 710px;
+
+.status {
+    font-size: $smaller;
+    margin: 2em auto;
+}
+
+.creator {
+    display: block;
+}
+
+@media screen and (min-width: 600px) {
+    .creator {
+        display: inline;
+        float: right;
+    }
+}

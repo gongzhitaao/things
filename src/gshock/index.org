@@ -1,0 +1,47 @@
+#+TITLE: Gshock Watches
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/gshock.css"/>
+
+Gshock simplifies my life.
+
+I like Gs with *solar power* and *atomic timekeeping*.
+
+- [[https://www.gshock.com/watches/digital/GWM5610-1][GWM5610-1]] is my everyday watch.  It is not waterproof after I changed the
+  battery myself.  Price is $140.
+  #+CAPTION: GWM5610-1
+  #+NAME: fig:gwm5610-1
+  #+ATTR_HTML: :height 200px
+  [[file:img/GWM5610-1.png]]
+- [[https://www.gshock.com/watches/digital/gmwb5000d-1][GWMB5000]] is a full metal version of G-Square.  Price is $550.
+  #+CAPTION: GMWB5000D-1
+  #+NAME: fig:gmwb5000d-1
+  #+ATTR_HTML: :height 200px
+  [[file:img/GMWB5000D-1.png]]
+  #+CAPTION: GMWB5000G-1
+  #+NAME: fig:gmwb5000g-1
+  #+ATTR_HTML: :height 200px
+  [[file:img/GMWB5000G-1.png]]
+- [[https://www.casio.com/products/archive/watches/g-shock/gw4000-1a][GW4000]] is a full-analog watch.  As of 2021 Feb, It is /discontinued/
+  unfortunately.  Price is $350.
+  #+CAPTION: GW4000-1A
+  #+NAME: fig:gw4000-1a
+  #+ATTR_HTML: :height 200px
+  [[file:img/GW4000-1A.png]]
+- [[https://www.gshock.com/watches/analog-digital/awgm100-1a][AWGM100]] is a digit-analog watch.  Price is $150.
+  #+CAPTION: AWGM100-1A
+  #+NAME: fig:awgm100-1a
+  #+ATTR_HTML: :height 200px
+  [[file:img/AWGM100-1A.png]]
+  #+CAPTION: AWGM100B-1A
+  #+NAME: fig:awgm100b-1a
+  #+ATTR_HTML: :height 200px
+  [[file:img/AWGM100B-1A.png]]
+- [[https://www.gshock.com/watches/master-of-g/gw9400-1][GW9400]] RANGEMAN, [[https://www.gshock.com/watches/master-of-g/gw9400-1][Master of G]] series.  Price is $330.
+  #+CAPTION: GW9400-1 Rangeman
+  #+NAME: fig:gw9400-1
+  #+ATTR_HTML: :height 200px
+  [[file:img/GW9400-1.png]]
+- [[https://www.gshock.com/watches/master-of-g/gwg1000-1a3][GWG1000]] MUDMASTER, [[https://www.gshock.com/watches/master-of-g/gwg1000-1a3][Master of G]] series.  Price is $800.
+  #+CAPTION: GWG1000-1a3
+  #+NAME: fig:gwg1000-1a3
+  #+ATTR_HTML: :height 200px
+  [[file:img/GWG1000-1A3.png]]
